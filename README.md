@@ -1,6 +1,9 @@
-# Readme
+# Bioeng-Project: Image-Based Bioengineering Data Analysis and Query
 
-## Bioeng-Project - Image-Based Bioengineering Data Analysis and Query
+> Note: This repo is about the first submission, which does not include YOLO models. For YOLO version, please refer to this link: https://github.com/qzt168/bio-cell-detection-yolo.
+
+## Overvew
+
 - The project developed an automated image analysis and query tool designed to convert unstructured biological cell image data into a structured tabular format and support natural language or SQL-like queries.
 - Project description: https://docs.google.com/document/d/1PApMZ6jZbiUVLxcQBkPXKKV3s7gc-wi4L62d2kpuSck/edit?tab=t.0
 
